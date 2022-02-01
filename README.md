@@ -6,14 +6,30 @@ To design a wire frame for a website.
 ## DESIGN STEPS:
 
 ### Step 1:
-Write your design steps here 
+Create a New Document.
 
 ### Step 2:
-Write your design steps here
+Design a wire frame for the given website using the tools.
+
+### Step 3:
+Create further webpages and save it in a single document.
+
+### Step 4:
+Save the Pages.
 
 ## OUTPUT:
-include your output screenshots 
 
+### Home Page:
+
+![output](./img/1.png)
+
+### About:
+
+![output](./img/2.png)
+
+### Training:
+
+![output](./img/3.png)
 
 ## Result:
 Thus a wire frame is designed for a given website.
